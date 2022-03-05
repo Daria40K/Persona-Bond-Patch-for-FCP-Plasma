@@ -1,6 +1,6 @@
 # Persona Bond Patch for FCP Plasma Weapons Pack!
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-FCP-Plasma/blob/main/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-FCP-Plasma/blob/main/About/Preview.png)
 
 ## Weapons Patch
 - Plasma Pistol
